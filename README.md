@@ -1,1 +1,1 @@
-Supporting file information for the article entitled "Non-invasive metagenomics of anuran feces vs. traditional invasive survey to access parasites and diet diversity" submitted to Ecology and Evolution (ECE-2023-10-01811)
+Supporting information files for the article entitled "Non-invasive metagenomics of anuran feces vs. traditional invasive survey to access parasites and diet diversity" submitted to Ecology and Evolution (ECE-2023-10-01811).
